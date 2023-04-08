@@ -1,3 +1,3 @@
 # Credit Card Fruad Detection
-Algorithm: Decision Tree
+### Algorithm: Decision Tree
 with a simple flask library html
