@@ -1,2 +1,2 @@
 # Credit Card Fruad Detection
-Decision Tree
+Algorithm: Decision Tree
