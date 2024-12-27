@@ -34,7 +34,7 @@ Ensure you have Python (>= 3.8) installed along with the following libraries:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd credit-card-fraud-detection
+   cd card-fraud-detection
    ```
 3. Install the required Python libraries:
    ```bash
@@ -43,10 +43,6 @@ Ensure you have Python (>= 3.8) installed along with the following libraries:
 4. Run the Flask app:
    ```bash
    python app.py
-   ```
-5. Open a browser and navigate to:
-   ```
-http://127.0.0.1:5000
    ```
 
 
